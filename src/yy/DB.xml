@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<User id="User">
+	<user>
+		<id>1111</id>
+		<userName>aaaa</userName>
+		<userPwd>111111</userPwd>
+		<birthday>1998-02-12</birthday>
+	</user>
+</User>
